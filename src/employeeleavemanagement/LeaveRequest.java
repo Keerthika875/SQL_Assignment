@@ -15,9 +15,7 @@ public class LeaveRequest {
     public LeaveRequest() {
     }
 
-    public LeaveRequest(int employeeId, String leaveType,
-                        Date startDate, Date endDate,
-                        String reason) {
+    public LeaveRequest(int employeeId, String leaveType, Date startDate, Date endDate, String reason) {
 
         this.employeeId = employeeId;
         this.leaveType = leaveType;
