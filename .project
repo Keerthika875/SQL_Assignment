@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>EmployeeLeaveManagement</name>
+=======
+	<name>StudentManagementSystem</name>
+>>>>>>> 171428383aabccf7e9db7d420671d8775772d77d
 	<comment></comment>
 	<projects>
 	</projects>
